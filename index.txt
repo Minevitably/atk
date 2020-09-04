@@ -1,0 +1,491 @@
+卷 文件 的文件夹 PATH 列表
+卷序列号为 6279-75E8
+G:.
+│  index.txt
+│  
+├─Untitled
+├─下载
+│  │  AHA Music - Music Identifier.zip
+│  │  ASSSDBenchmark.zip
+│  │  gocklaboggjfkolaknpbhddbaopcepfp.zip
+│  │  vimium-options.json
+│  │  vs_enterprise__9149150.1586434779.exe
+│  │  [杜比高清演示片] 全景声Dolby Atmos.zip
+│  │  [杜比高清演示片] 全景声Dolby Atmos_Hao4k.m2ts
+│  │  高清壁纸1920x1080_part4_2665.zip
+│  │  黑暗水域(黑水,空转,演习).Dry.Run(Dark.Waters,The.Lawyer.Who.Became.DuPont's.Worst.Nightmare).2019.mkv.zip.bt.xltd
+│  │  
+│  ├─7号房的礼物(土耳其版).Yedinci.Kogustaki.Mucize.2019.HD1080P.土耳其语中字.BTDX8
+│  │      7号房的礼物(土耳其版).Yedinci.Kogustaki.Mucize.2019.HD1080P.土耳其语中字.BTDX8.mp4
+│  │      
+│  └─AHA Music - Music Identifier
+│      │  manifest.json
+│      │  
+│      ├─icons
+│      │      icon.png
+│      │      
+│      ├─img
+│      │      aha_music.ico
+│      │      clear.png
+│      │      deezer.ico
+│      │      delete.png
+│      │      donation.png
+│      │      donation1.png
+│      │      download.png
+│      │      more.png
+│      │      more1.png
+│      │      powered_by_acrcloud.png
+│      │      powered_by_acrcloud_1.png
+│      │      recycle.png
+│      │      recycle1.png
+│      │      searching.gif
+│      │      search_btn.png
+│      │      spotify.ico
+│      │      spotify.png
+│      │      youtube.ico
+│      │      
+│      ├─js
+│      │  └─content
+│      │          content.js
+│      │          
+│      ├─src
+│      │  ├─bg
+│      │  │      background.js
+│      │  │      
+│      │  ├─popup
+│      │  │      popup.css
+│      │  │      popup.html
+│      │  │      popup.js
+│      │  │      
+│      │  └─vendor
+│      │          handlebars-v4.0.10.js
+│      │          jquery.min.js
+│      │          
+│      └─_locales
+│          ├─de
+│          │      messages.json
+│          │      
+│          ├─en
+│          │      messages.json
+│          │      
+│          ├─fr
+│          │      messages.json
+│          │      
+│          ├─pt_BR
+│          │      messages.json
+│          │      
+│          └─ru
+│                  messages.json
+│                  
+├─图片
+│      可爱001(4).jpg
+│      可爱03(5).jpg
+│      大海008.jpg
+│      大海009(4).jpg
+│      大海011(6).jpg
+│      大海012(5).jpg
+│      山001(5).jpg
+│      山003(5).jpg
+│      山004(6).jpg
+│      山005(4).jpg
+│      山008(5).jpg
+│      山009(5).jpg
+│      山011(5).jpg
+│      山011.jpg
+│      山013(3).jpg
+│      山015(5).jpg
+│      山019(5).jpg
+│      山024(5).jpg
+│      山028(3).jpg
+│      山031(7).jpg
+│      建筑005(5).jpg
+│      建筑006(4).jpg
+│      建筑010(5).jpg
+│      建筑011(7).jpg
+│      建筑012(4).jpg
+│      建筑014(6).jpg
+│      建筑016(4).jpg
+│      建筑016.jpg
+│      建筑017(5).jpg
+│      建筑019(5).jpg
+│      建筑020(4).jpg
+│      建筑023(5).jpg
+│      建筑025(4).jpg
+│      建筑026(4).jpg
+│      极简001(4).jpg
+│      极简002(4).jpg
+│      极简003(6).jpg
+│      极简004.jpg
+│      极简005(5).jpg
+│      极简006(5).jpg
+│      极简007(3).jpg
+│      极简008(6).jpg
+│      极简009.jpg
+│      极简010(5).jpg
+│      极简017(4).jpg
+│      极简021(3).jpg
+│      极简022(5).jpg
+│      极简023(7).jpg
+│      极简024(5).jpg
+│      极简025(5).jpg
+│      极简026(4).jpg
+│      水果001(5).jpg
+│      水果002(5).jpg
+│      水果003(5).jpg
+│      水果004.jpg
+│      绿植002.jpg
+│      
+├─壁纸1920x1080
+│      风景 (1).jpg
+│      风景 (10).jpg
+│      风景 (100).jpg
+│      风景 (101).jpg
+│      风景 (102).jpg
+│      风景 (103).jpg
+│      风景 (104).jpg
+│      风景 (105).jpg
+│      风景 (106).jpg
+│      风景 (107).jpg
+│      风景 (108).jpg
+│      风景 (109).jpg
+│      风景 (11).jpg
+│      风景 (110).jpg
+│      风景 (111).jpg
+│      风景 (112).jpg
+│      风景 (113).jpg
+│      风景 (114).jpg
+│      风景 (115).jpg
+│      风景 (116).jpg
+│      风景 (117).jpg
+│      风景 (118).jpg
+│      风景 (119).jpg
+│      风景 (12).jpg
+│      风景 (120).jpg
+│      风景 (121).jpg
+│      风景 (122).jpg
+│      风景 (123).jpg
+│      风景 (124).jpg
+│      风景 (125).jpg
+│      风景 (126).jpg
+│      风景 (127).jpg
+│      风景 (128).jpg
+│      风景 (129).jpg
+│      风景 (13).jpg
+│      风景 (130).jpg
+│      风景 (131).jpg
+│      风景 (132).jpg
+│      风景 (133).jpg
+│      风景 (134).jpg
+│      风景 (135).jpg
+│      风景 (136).jpg
+│      风景 (137).jpg
+│      风景 (138).jpg
+│      风景 (139).jpg
+│      风景 (14).jpg
+│      风景 (140).jpg
+│      风景 (141).jpg
+│      风景 (142).jpg
+│      风景 (143).jpg
+│      风景 (144).jpg
+│      风景 (145).jpg
+│      风景 (146).jpg
+│      风景 (147).jpg
+│      风景 (148).jpg
+│      风景 (149).jpg
+│      风景 (15).jpg
+│      风景 (150).jpg
+│      风景 (151).jpg
+│      风景 (152).jpg
+│      风景 (153).jpg
+│      风景 (154).jpg
+│      风景 (155).jpg
+│      风景 (156).jpg
+│      风景 (157).jpg
+│      风景 (158).jpg
+│      风景 (159).jpg
+│      风景 (16).jpg
+│      风景 (160).jpg
+│      风景 (161).jpg
+│      风景 (162).jpg
+│      风景 (163).jpg
+│      风景 (164).jpg
+│      风景 (165).jpg
+│      风景 (166).jpg
+│      风景 (167).jpg
+│      风景 (168).jpg
+│      风景 (169).jpg
+│      风景 (17).jpg
+│      风景 (170).jpg
+│      风景 (171).jpg
+│      风景 (172).jpg
+│      风景 (173).jpg
+│      风景 (174).jpg
+│      风景 (175).jpg
+│      风景 (176).jpg
+│      风景 (177).jpg
+│      风景 (178).jpg
+│      风景 (179).jpg
+│      风景 (18).jpg
+│      风景 (180).jpg
+│      风景 (181).jpg
+│      风景 (182).jpg
+│      风景 (183).jpg
+│      风景 (184).jpg
+│      风景 (185).jpg
+│      风景 (186).jpg
+│      风景 (187).jpg
+│      风景 (188).jpg
+│      风景 (189).jpg
+│      风景 (19).jpg
+│      风景 (190).jpg
+│      风景 (191).jpg
+│      风景 (192).jpg
+│      风景 (193).jpg
+│      风景 (194).jpg
+│      风景 (195).jpg
+│      风景 (196).jpg
+│      风景 (197).jpg
+│      风景 (198).jpg
+│      风景 (199).jpg
+│      风景 (2).jpg
+│      风景 (20).jpg
+│      风景 (200).jpg
+│      风景 (201).jpg
+│      风景 (202).jpg
+│      风景 (203).jpg
+│      风景 (204).jpg
+│      风景 (205).jpg
+│      风景 (206).jpg
+│      风景 (207).jpg
+│      风景 (208).jpg
+│      风景 (209).jpg
+│      风景 (21).jpg
+│      风景 (210).jpg
+│      风景 (211).jpg
+│      风景 (212).jpg
+│      风景 (213).jpg
+│      风景 (214).jpg
+│      风景 (215).jpg
+│      风景 (216).jpg
+│      风景 (217).jpg
+│      风景 (218).jpg
+│      风景 (219).jpg
+│      风景 (22).jpg
+│      风景 (220).jpg
+│      风景 (221).jpg
+│      风景 (222).jpg
+│      风景 (223).jpg
+│      风景 (224).jpg
+│      风景 (225).jpg
+│      风景 (226).jpg
+│      风景 (227).jpg
+│      风景 (228).jpg
+│      风景 (229).jpg
+│      风景 (23).jpg
+│      风景 (230).jpg
+│      风景 (231).jpg
+│      风景 (232).jpg
+│      风景 (233).jpg
+│      风景 (234).jpg
+│      风景 (235).jpg
+│      风景 (236).jpg
+│      风景 (237).jpg
+│      风景 (238).jpg
+│      风景 (239).jpg
+│      风景 (24).jpg
+│      风景 (240).jpg
+│      风景 (241).jpg
+│      风景 (242).jpg
+│      风景 (243).jpg
+│      风景 (244).jpg
+│      风景 (245).jpg
+│      风景 (246).jpg
+│      风景 (247).jpg
+│      风景 (248).jpg
+│      风景 (249).jpg
+│      风景 (25).jpg
+│      风景 (250).jpg
+│      风景 (251).jpg
+│      风景 (252).jpg
+│      风景 (253).jpg
+│      风景 (254).jpg
+│      风景 (255).jpg
+│      风景 (256).jpg
+│      风景 (257).jpg
+│      风景 (258).jpg
+│      风景 (259).jpg
+│      风景 (26).jpg
+│      风景 (260).jpg
+│      风景 (261).jpg
+│      风景 (262).jpg
+│      风景 (263).jpg
+│      风景 (264).jpg
+│      风景 (265).jpg
+│      风景 (266).jpg
+│      风景 (267).jpg
+│      风景 (268).jpg
+│      风景 (269).jpg
+│      风景 (27).jpg
+│      风景 (270).jpg
+│      风景 (271).jpg
+│      风景 (272).jpg
+│      风景 (273).jpg
+│      风景 (274).jpg
+│      风景 (275).jpg
+│      风景 (276).jpg
+│      风景 (277).jpg
+│      风景 (278).jpg
+│      风景 (279).jpg
+│      风景 (28).jpg
+│      风景 (280).jpg
+│      风景 (281).jpg
+│      风景 (282).jpg
+│      风景 (283).jpg
+│      风景 (284).jpg
+│      风景 (285).jpg
+│      风景 (286).jpg
+│      风景 (287).jpg
+│      风景 (288).jpg
+│      风景 (289).jpg
+│      风景 (29).jpg
+│      风景 (290).jpg
+│      风景 (291).jpg
+│      风景 (292).jpg
+│      风景 (293).jpg
+│      风景 (294).jpg
+│      风景 (295).jpg
+│      风景 (296).jpg
+│      风景 (297).jpg
+│      风景 (298).jpg
+│      风景 (299).jpg
+│      风景 (3).jpg
+│      风景 (30).jpg
+│      风景 (300).jpg
+│      风景 (301).jpg
+│      风景 (302).jpg
+│      风景 (303).jpg
+│      风景 (304).jpg
+│      风景 (305).jpg
+│      风景 (306).jpg
+│      风景 (307).jpg
+│      风景 (308).jpg
+│      风景 (309).jpg
+│      风景 (31).jpg
+│      风景 (310).jpg
+│      风景 (311).jpg
+│      风景 (312).jpg
+│      风景 (32).jpg
+│      风景 (33).jpg
+│      风景 (34).jpg
+│      风景 (35).jpg
+│      风景 (36).jpg
+│      风景 (37).jpg
+│      风景 (38).jpg
+│      风景 (39).jpg
+│      风景 (4).jpg
+│      风景 (40).jpg
+│      风景 (41).jpg
+│      风景 (42).jpg
+│      风景 (43).jpg
+│      风景 (44).jpg
+│      风景 (45).jpg
+│      风景 (46).jpg
+│      风景 (47).jpg
+│      风景 (48).jpg
+│      风景 (49).jpg
+│      风景 (5).jpg
+│      风景 (50).jpg
+│      风景 (51).jpg
+│      风景 (52).jpg
+│      风景 (53).jpg
+│      风景 (54).jpg
+│      风景 (55).jpg
+│      风景 (56).jpg
+│      风景 (57).jpg
+│      风景 (58).jpg
+│      风景 (59).jpg
+│      风景 (6).jpg
+│      风景 (60).jpg
+│      风景 (61).jpg
+│      风景 (62).jpg
+│      风景 (63).jpg
+│      风景 (64).jpg
+│      风景 (65).jpg
+│      风景 (66).jpg
+│      风景 (67).jpg
+│      风景 (68).jpg
+│      风景 (69).jpg
+│      风景 (7).jpg
+│      风景 (70).jpg
+│      风景 (71).jpg
+│      风景 (72).jpg
+│      风景 (73).jpg
+│      风景 (74).jpg
+│      风景 (75).jpg
+│      风景 (76).jpg
+│      风景 (77).jpg
+│      风景 (78).jpg
+│      风景 (79).jpg
+│      风景 (8).jpg
+│      风景 (80).jpg
+│      风景 (81).jpg
+│      风景 (82).jpg
+│      风景 (83).jpg
+│      风景 (84).jpg
+│      风景 (85).jpg
+│      风景 (86).jpg
+│      风景 (87).jpg
+│      风景 (88).jpg
+│      风景 (89).jpg
+│      风景 (9).jpg
+│      风景 (90).jpg
+│      风景 (91).jpg
+│      风景 (92).jpg
+│      风景 (93).jpg
+│      风景 (94).jpg
+│      风景 (95).jpg
+│      风景 (96).jpg
+│      风景 (97).jpg
+│      风景 (98).jpg
+│      风景 (99).jpg
+│      
+├─计算机相关信息
+│      DxDiag.txt
+│      WD SDASN8Y-512G PC SA530 SSD 512GB M.2 2280 6Gb_s.pdf
+│      
+├─软件安装包
+│      3DMark_11_v105.zip
+│      445.75-notebook-win10-64bit-international-dch-whql.exe
+│      AHK-Studio-master.zip
+│      AutoAHK-2.0.0 - 内2.zip
+│      AutoHotkey_1.1.32.00_setup.exe
+│      BANDIZIP6.EXE
+│      Dism++.zip
+│      EasyX_20200109(beta).exe
+│      Edge.exe
+│      Everything-1.4.1.969.x64-Setup.exe
+│      geek.zip
+│      idm.zip
+│      idman637build8.exe
+│      kwmusic_w1_bcs_20191217.exe
+│      Listary.exe
+│      pk_setup6.37.exe
+│      pk_setup6.37.rar
+│      QQ.exe
+│      QTranslate_6.7.5.1_PortableSoft.7z
+│      resource_hacker.zip
+│      SciTE4AHK300601_Install.exe
+│      thk5_mk6.7z
+│      typeeasy_game_setup.exe
+│      Wox-1.3.475.exe
+│      YoudaoDictSetup.exe
+│      迅雷X_v10.1.31.740_Build20200307.exe
+│      
+└─项目
+    └─Project1
+            Project1.sln
+            Project1.vcxproj
+            Project1.vcxproj.filters
+            Project1.vcxproj.user
+            源.cpp
+            
